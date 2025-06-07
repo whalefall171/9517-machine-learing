@@ -1,0 +1,8 @@
+# LBP
+
+numpy
+opencv-python
+matplotlib
+scikit-learn
+scikit-image
+joblib
